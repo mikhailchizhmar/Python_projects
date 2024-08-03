@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of Great Britain?",
+      "answer": ["Paris", "New York", "London"]
+    },
+    {
+      "question": "In what year did World War II end?",
+      "answer": ["1945", "1914", "1941"]
+    },
+    {
+      "question": "Who is the author of Harry Potter?",
+      "answer": ["J.R.R. Tolkien", "J.K. Rowling", "F.M. Dostoevsky"]
+    },
+    {
+      "question": "What is the unit of speed?",
+      "answer": ["m/s", "W", "g"]
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "answer": ["Fe", "Au", "O"]
+    },
+    {
+      "question": "What is 2 times 5?",
+      "answer": ["25", "7", "10"]
+    },
+    {
+      "question": "What is the formula for water?",
+      "answer": ["C2H6O", "H2O", "H30"]
+    },
+    {
+      "question": "How many continents are there in the world?",
+      "answer": ["6", "8", "4"]
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "answer": ["Michelangelo Buonarroti", "Leonardo Dawynchi", "Donatello"]
+    },
+    {
+      "question": "What is the smallest and coldest ocean on Earth?",
+      "answer": ["Indian Ocean", "Pacific Ocean", "Arctic Ocean"]
+    }
+  ]
+}
