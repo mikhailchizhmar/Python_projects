@@ -1,0 +1,13 @@
+________________________________________________________________
+Maze Solver & Cave Generator
+
+To use Maze Solver:
+1. Click "Generate Maze" or "Load from file"
+2. Click "Solve maze" button
+3. Write coordinates of the start and the end
+
+To use Cave Generator:
+1. Click "Load from file"
+2. Click "Next step" or "Auto step"
+
+It is possible to save a maze or a cave via "Save to file" button
